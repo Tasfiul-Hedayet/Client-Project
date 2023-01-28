@@ -1,0 +1,19 @@
+
+
+.bg{
+    background-color: black;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
